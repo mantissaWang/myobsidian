@@ -1,5 +1,5 @@
 {
-  "translucency": true,
+  "translucency": false,
   "cssTheme": "Everforest",
   "baseFontSize": 16,
   "theme": "system"

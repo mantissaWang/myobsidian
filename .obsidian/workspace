@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "C/建立library/2. 在header與.cpp裡面用class函式語法.md",
+            "file": "C/ESP32_fieldSystem_project/2022-07-05.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C/建立library/2. 在header與.cpp裡面用class函式語法.md",
+                "file": "C/ESP32_fieldSystem_project/2022-07-05.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C/建立library/2. 在header與.cpp裡面用class函式語法.md"
+                "file": "C/ESP32_fieldSystem_project/2022-07-05.md"
               }
             }
           },
@@ -108,15 +108,15 @@
   },
   "active": "9267fd15918fda16",
   "lastOpenFiles": [
+    "C/ESP32_fieldSystem_project/2022-07-05.md",
     "C/建立library/2. 在header與.cpp裡面用class函式語法.md",
+    "C/建立library/1. 甚麼是header.md",
+    "C/ESP32_fieldSystem_project/log.md",
+    "C/建立library/3. 怎麼用C裡面的if、ifndef？.md",
+    "未命名.md",
     "C/cpp裡面使用function.png",
     "C/在.cpp撰寫begin()的函式.png",
     "C/class在header裡面的用法.png",
-    "Daily ideas/2022-07-05.md",
-    "bodyParser的流程圖.png",
-    "輸出環境變數裡面的資料.png.png",
-    "輸出環境變數裡面的資料.png",
-    "C/在header裡面使用getRandomNumber.png",
-    "Pasted image 20220705140730.png"
+    "bodyParser的流程圖.png"
   ]
 }
