@@ -1,0 +1,129 @@
+{
+  "workspaces": {
+    "JavaScript": {
+      "main": {
+        "id": "0afce786356e7d6b",
+        "type": "split",
+        "children": [
+          {
+            "id": "b9ab1021da56ac49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JavaScript/Project 7/2. 新增models.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "22bed4f359a4ebc1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily ideas/2022-07-04.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "2a9d2c7ca8bb25e9",
+        "type": "split",
+        "children": [
+          {
+            "id": "d2042bb038922d4c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c3368d04e991d684",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              },
+              {
+                "id": "8d2d325b1d266148",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 329
+      },
+      "right": {
+        "id": "bad06b50a23c7ca7",
+        "type": "split",
+        "children": [
+          {
+            "id": "add34f1238d455f4",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "9b1b56d9c6b190af",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Daily ideas/2022-07-04.md",
+                    "collapseAll": true,
+                    "extraContext": true,
+                    "sortOrder": "alphabetical",
+                    "showSearch": true,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": false
+                  }
+                }
+              },
+              {
+                "id": "48fee3a35ced3536",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Daily ideas/2022-07-04.md"
+                  }
+                }
+              },
+              {
+                "id": "2ddfea7af95c3d36",
+                "type": "leaf",
+                "state": {
+                  "type": "FANTASY_CALENDAR",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal",
+        "width": 291,
+        "collapsed": true
+      },
+      "active": "22bed4f359a4ebc1"
+    }
+  },
+  "active": "JavaScript"
+}

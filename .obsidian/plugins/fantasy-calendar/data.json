@@ -181,7 +181,7 @@
       "current": {
         "year": 2022,
         "month": 6,
-        "day": 4
+        "day": 5
       },
       "events": [
         {
@@ -202,6 +202,18 @@
               "timespan": "days"
             }
           ]
+        },
+        {
+          "name": "今天去新豐載米",
+          "description": null,
+          "date": {
+            "day": 5,
+            "month": 6,
+            "year": 2022
+          },
+          "id": "ID_cac8cb281baa",
+          "note": null,
+          "category": "ID_0bea5ae849ea"
         }
       ],
       "id": "ID_1a5b78498899",
@@ -227,7 +239,7 @@
           "name": "Office"
         }
       ],
-      "date": 1656864003740,
+      "date": 1656950401389,
       "displayWeeks": true
     }
   ],
